@@ -1,1 +1,3 @@
 5 min
+
+ <View style={styles.contentModal}><Image style={styles.imgPhoto} source={{ uri = capturedPhoto}} /></View>
